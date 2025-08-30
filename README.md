@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**niiHA-debug/niiHA-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, World!  
 
-Here are some ideas to get you started:
+I am Nii a passionate **Computer Science student**, driven by curiosity for technology and problem-solving. My journey involves learning **backend development**, exploring new technologies, and building projects that solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me  
+
+- 🔭 Currently focused on learning **backend development**.  
+- 🌱 Exploring **Python, Django, and SQL** to build scalable applications.  
+- 💡 Passionate about solving problems and learning by doing.  
+- 🤝 Open to collaborating on beginner-friendly projects.  
+
+## 🛠️ Tech Stack  
+html
+css
+javascript
+python 
+django
+
+## 🌱 Currently Exploring  
+
+- 🚀 Backend web development with **Django**  
+- 🗄️ Database management using **SQL & PostgreSQL**  
+- ⚡ Building APIs and understanding server-side logic  
+
+## 📬 Get in Touch  
+
+- Connect with me on [LinkedIn](www.linkedin.com/in/nii-ayikwei-hammond-437321378)  
+- Explore my projects here on GitHub 🚀  
+
+---
+
+✨ Thanks for stopping by! Let’s connect and build amazing things together.  
